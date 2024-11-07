@@ -10,15 +10,15 @@
   --px-text:	#000000;
 
 
-  --px-gray-1:	#f8fafd;
-  --px-gray-2:	#f3f6fc;
-  --px-gray-3:	#eff3fa;
-  --px-gray-4:	#edf2fa;
-  --px-gray-5:	#eaf0f9;
+  --px-gray-1:	#000000;
+  --px-gray-2:	#000000;
+  --px-gray-3:	#000000;
+  --px-gray-4:	#000000;
+  --px-gray-5:	#000000;
 
   
   --bs-heading-color:	#000;
-  --px-border:	#e1e3e1;
+  --px-border:	#000000;
 }
 
 @media (prefers-reduced-motion: no-preference) {
