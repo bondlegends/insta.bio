@@ -3,22 +3,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&amp;display=swap");
 
 :root {
-  --px-theme:	#000000;
-  --px-theme-text:	#000000;
+  --px-theme:	#3a86ff;
+  --px-theme-text:	#fff;
   
-  --px-bg:	#000000;
-  --px-text:	#000000;
+  --px-bg:	#fff;
+  --px-text:	#444746;
 
 
-  --px-gray-1:	#000000;
-  --px-gray-2:	#000000;
-  --px-gray-3:	#000000;
-  --px-gray-4:	#000000;
-  --px-gray-5:	#000000;
+  --px-gray-1:	#f8fafd;
+  --px-gray-2:	#f3f6fc;
+  --px-gray-3:	#eff3fa;
+  --px-gray-4:	#edf2fa;
+  --px-gray-5:	#eaf0f9;
 
   
   --bs-heading-color:	#000;
-  --px-border:	#000000;
+  --px-border:	#e1e3e1;
 }
 
 @media (prefers-reduced-motion: no-preference) {
